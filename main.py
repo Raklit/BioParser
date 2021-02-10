@@ -9,6 +9,8 @@ from selenium.webdriver.common.keys import Keys
 import ParserRecord as pr
 import xml.dom.minidom
 
+# test of correct sync
+
 def main():
     args = sys.argv
     browser = webdriver.Firefox()
