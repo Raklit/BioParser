@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 10 14:24:11 2021
-
-@author: gorlo
-"""
 
 import sys
 import re
