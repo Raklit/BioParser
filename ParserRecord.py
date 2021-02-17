@@ -52,6 +52,18 @@ class ParserRecord():
             else: d[gen] = 1
         return d
 
+    def unique_genes(self):
+        return list(sorted(set(self.genes)))
+
+    def generate_features(self, feature_vec):
+        n = len(feature_vec)
+        uni = self.unique_genes()
+        result = [0] * n
+        for i in range(n):
+            if feature_vec[i] in uni: result[i] = 1
+        return result
+
+
 
     def __repr__(self):
         return json.dumps({"name" : self.name, "genes" : self.genes})
