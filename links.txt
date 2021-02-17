@@ -1,3 +1,4 @@
+http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+SLB02
 http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+johnsoniae+UW101
 http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+F52
 http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+URHB0058
