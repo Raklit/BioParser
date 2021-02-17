@@ -1,0 +1,10 @@
+http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+johnsoniae+UW101
+http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+F52
+http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+URHB0058
+http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+CF136&sp_ncbi=
+http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+soli+DSM+19725&sp_ncbi=
+http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+antarcticum+DSM+19726&sp_ncbi=
+http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+frigoris+PS1&sp_ncbi=
+http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+branchiophilum+FL-15&sp_ncbi=
+http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+columnare+ATCC+49512&sp_ncbi=
+http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+indicum+GPTSA100-9+%3D+DSM+17447&sp_ncbi=
