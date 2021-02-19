@@ -1,0 +1,61 @@
+Strain,Genome Size (Mbp),GC content (%),RefSeq accession number,GenBank accession number,Isolation site,Habitat,Abbreviations in figures,PULDB URL
+F. akiainvivens IK-1,4.53,43.8,GCF_001278115.1,GCA_001278115.1,USA: Hawaii,decaying wood,FAika,
+F. antarcticum DSM 19726,3.08,35.0,GCF_000419685.1 ,GCA_000419685.1,Antarctica,Soil,antar,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+antarcticum+DSM+19726&sp_ncbi=
+F. aquidurense RC62,5.35,33.5,GCF_001404985.1,GCA_001404985.1,South Korea,NA,aquid,
+F. beibuense F44-8,3.80,37.7,GCF_000769915.1,GCA_000769915.1,China: Beibu Gulf,tomato rhizosphere,beibu,
+F. branchiophilum FL-15,3.56,32.9,GCF_000253275.1,GCA_000253275.1,NA,NA,branc,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+branchiophilum+FL-15&sp_ncbi=
+F. cauense R2A-7,3.11,38.2,GCF_000498475.1,GCA_000498475.1,South Korea,Aquatic,cauen,
+F. columnare  ATCC 49512,3.16,31.5,GCF_000240075.2,GCA_000240075.2,NA,diseased channel catfish,A49512,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+columnare+ATCC+49512&sp_ncbi=
+F. columnare 94-081,3.32,30.8,GCF_001534645.1 ,GCA_001534645.1,USA,catfish,F94081,
+F. chungangense LMG 26729,5.59,33.7,GCF_000735715.2,GCA_000735715.2,South Korea,freshwater lake ,chun,
+F. daejeonense DSM 17708,3.76,35.1,GCF_000425425.1,GCA_000425425.1,South Korea,Greenhouse soils,daej,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+daejeonense+DSM+17708&sp_ncbi=
+F. denitrificans DSM 15936,4.82,34.0,GCF_000425445.1,GCA_000425445.1,Germany,Host; Soil,denit,
+F. enshiense DK69,3.39,37.7,GCF_000498495.1,GCA_000498495.1,South Korea,Terrestrial,enshi,
+F. filum DSM 17961,3.19,33.8,GCF_000425465.1,GCA_000425465.1,South Korea,Wastewater treatment plant;Wastewater; Host,filum,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+filum+DSM+17961&sp_ncbi=
+F. frigidarium DSM 17623,3.63,34.0,GCF_000425505.1 ,GCA_000425505.1,Antarctica,Marine sediment;Isolation Comments From shallow water,frigi,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+frigidarium+DSM+17623&sp_ncbi=
+F. frigoris PS1,3.93,34.4,GCF_000252125.1,GCA_000252125.2,Antarctica: McMurdo Sound,Aquatic,frigo,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+frigoris+PS1&sp_ncbi=
+F. gelidilacus DSM 15343,3.44,30.0,GCF_000422685.1,GCA_000422685.1,Antarctica,Mat; Fresh water; Antarctic,gelid,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+gelidilacus+DSM+15343&sp_ncbi=
+F. gilvum EM1308,4.32,35.1,GCF_000735535.1,GCA_000735535.1,South Korea: Bukhan Mountain,environment biome Woodland,EM1308,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+gilvum+EM1308&sp_ncbi=
+F. hibernum DSM 12611,5.28,33.2,GCF_000832125.1,GCA_000832125.1,Antarctica,Aquatic,hiber,
+F. hydatis DSM 2063,5.88,32.7,GCF_000737695.1,GCA_000737695.1,USA: Michigan,HostAssociated:salmon gills from a freshwater fish,hydat,
+F. indicum GPTSA100-9,2.99,31.4,GCF_000455605.1,GCA_000455605.1,NA,NA,indic,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+indicum+GPTSA100-9+%3D+DSM+17447&sp_ncbi=
+F. johnsoniae UW101,6.10,34.1,GCF_000016645.1,GCA_000016645.1,NA,Multiple,johns,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+johnsoniae+UW101
+F. limnosediminis JC2902,3.47,38.5,GCF_000498535.1,GCA_000498535.1,South Korea,Aquatic,limno,
+F. psychrophilum FPG101,2.84,32.6,NZ_CP007206.1,CP007206.1,Canada,diseased rainbow trout,psych,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+psychrophilum+FPG101&sp_ncbi=
+F. reichenbachii LMG 25512,5.50,33.6,GCF_000737685.1,GCA_000737685.1,Germany,Aquatic,reich,
+F. rivuli DSM 21788,4.49,39.6,GCF_000378485.1,GCA_000378485.1,Germany,Aquatic,rivuli,
+F. saliperosum S13,2.89,39.6,GCF_000498515.1,GCA_000498515.1,South Korea,Aquatic,salip,
+F. soli DSM 19725,4.00,36.1,GCF_000422705.1,GCA_000422705.1,South Korea,Soil,soli,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+soli+DSM+19725&sp_ncbi=
+F. sp. 316,3.97,29.0,GCF_000967805.1,GCA_000967805.1,"Poland: Baltic Sea, Gulf of Gdansk",brackish surface water,F316,
+F. sp. 83,3.79,33.3,GCF_000744835.1,GCA_000744835.1,NA,NA,F83,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+83&sp_ncbi=
+F. sp. ABG,5.27,35.1,GCF_001027725.1,GCA_001027725.1 ,"USA: Montoursville, Pennsylvania",freshwater Creek,ABG,
+F. sp. ACAM 123,3.96,34.8,GCF_000264055.1 ,GCA_000264055.1,Antarctica: Burton Lake,saline meromictic lagoon,ACAM123,
+F. sp. AED,3.93,33.6,GCF_000812945.1,GCA_000812945.1,"USA: Montoursville, Pennsylvania",freshwater Creek,AED,
+F. sp. B17,4.17,37.0,GCF_000333355.1,GCA_000333355.1,NA,NA,B17,
+F. sp. CF136,5.10,33.6,GCF_000282055.1,GCA_000282055.1,NA,NA,CF136,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+CF136&sp_ncbi=
+F. sp. EM1321,3.79,33.2,GCF_000695795.1,GCA_000695795.1,South Korea: Bukhan Mountain,fresh water,EM1321,
+F. sp. F52,5.34,34.4,GCF_000278705.1,GCA_000278705.1,NA,rhizosphere of mature greenhouse bell pepper (Capsicum annuum L) plants grown in soilless media,F52,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+F52
+F. sp. Fl,5.28,33.4,GCA_000745775.1,GCA_000745775.1,NA,NA,M74577,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+Fl&sp_ncbi=
+F. sp. JGI 0001001-D01,1.54,34.6,GCF_000464355.1,GCA_000464355.2,NA,NA,CFB,
+F. sp. JRM,5.38,32.9,GCF_000812985.1,GCA_000812985.1,"USA: Montoursville, Pennsylvania",freshwater Creek,JRM,
+F. sp. KJJ,4.60,33.3,GCF_000708595.2,GCA_000708595.2,USA: Loyalsock Creek,freshwater Creek,KJJ,
+F. sp. KMS,5.60,32.5,GCF_000813005.1,GCA_000813005.1,"USA: Montoursville, PA",freshwater Creek,KMS,
+F. sp. Leaf359,3.80,37.8,GCF_001423985.1 ,GCA_001423985.1,Switzerland:Zurich,leaf,leaf359,
+F. sp. Leaf82,5.67,33.4,GCF_001422725.1,GCA_001422725.1,Switzerland:Zurich,leaf,leaf82,
+F. sp. MEB061,5.75,33.6,GCF_000834715.1 ,GCA_000834715.1,"USA: Michigan State University Extension, Berrien County, Michigan",leaf,MEB061,
+F. sp. MS220-5C,0.71,39.2,GCF_000341755.1,GCA_000341755.1,NA,Fresh water,MS220,
+F. sp. Root186,5.53,33.7,GCF_001428525.1 ,GCA_001428525.1,Germany:Cologne,root,root186,
+F. sp. Root420,5.63,34.1,GCF_001427905.1,GCA_001427905.1,Germany:Golm,root,root420,
+F. sp. Root901,4.99,34.2,GCF_001429765.1,GCA_001429765.1,Germany:Cologne,root,root901,
+F. sp. Root935,5.09,33.5,GCF_001429295.1,GCA_001429295.1,Germany:Cologne,root,root935,
+F. sp. SCGC AAA160-P02,2.54,31.8,GCF_000383355.1,GCA_000383355.1,Atlantic Ocean,Marine,M38335,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+SCGC+AAA160-P02&sp_ncbi=
+F. sp. SCGC AAA536-P05,0.26,38.3,GCF_000384835.1,GCA_000384835.1,NA,Marine; Aquatic,SCGC,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+SCGC+AAA536-P05&sp_ncbi=
+F. sp. TAB87,3.83,34.4,GCF_001529295.1,GCA_001529295.1,Antarctica,sea water,TAB87,
+F. sp. URHB0058,5.26,33.7,GCF_000426145.1,GCA_000426145.1,forest soil communities across North America,Soil,M42614,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sp.+URHB0058
+F. sp. VMW,5.63,33.6,GCF_001275605.1,GCA_001275605.1,"USA: Montoursville, Pennsylvania",freshwater Creek,VMW,
+F. sp. WG21,5.20,35.6,GCF_000335775.1,GCA_000335775.1,USA:MI,Wintergreen Lake,WG21,
+F. sasangense DSM 21067,3.16,32.3,GCF_000686885.1,GCA_000686885.1,South Korea,Aquatic,sasa,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+sasangense+DSM+21067&sp_ncbi=
+F. subsaxonicum DSM 21790,4.64,41.5,GCF_000422725.1,GCA_000422725.1 ,Germany,Aquatic,subsa,
+F. succinicans LMG 10402,3.65,35.5,GCF_000611675.1,GCA_000611675.1,NA,Aquatic,succi,
+F. suncheonense DSM 17707,2.88,40.5,GCF_000430025.1,GCA_000430025.1,South Korea,Soil,sunch,
+F. tegetincola DSM 22377,3.77,34.9,GCF_000425485.1,GCA_000425485.1,Antarctica,Cyanobacterial mat from a marine salinity meromictic lake:Marine; Mat; Antarctic; Fresh water; Aquatic,teget,http://www.cazy.org/PULDB/index.php?sp_name=Flavobacterium+tegetincola+DSM+22377&sp_ncbi=
