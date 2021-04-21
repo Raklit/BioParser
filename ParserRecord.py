@@ -55,12 +55,20 @@ class ParserRecord():
     def unique_genes(self):
         return list(sorted(set(self.genes)))
 
-    def generate_features(self, feature_vec):
+    def generate_features_by_existence(self, feature_vec):
         n = len(feature_vec)
         uni = self.unique_genes()
         result = [0] * n
         for i in range(n):
             if feature_vec[i] in uni: result[i] = 1
+        return result
+    
+    def generate_features_by_count(self, feature_vec):
+        n = len(feature_vec)
+        d = self.get_dict_with_count_of_genes()
+        result = [0] * n
+        for i in range(n):
+            if feature_vec[i] in d: result[i] = d[feature_vec[i]]
         return result
 
 

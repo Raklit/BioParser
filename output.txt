@@ -1,0 +1,20 @@
+0 Flavobacterium antarcticum DSM 19726 [-2.40421073  0.02478319] g
+1 Flavobacterium columnare ATCC 49512 [-2.75601514  0.09402582] g
+2 Flavobacterium daejeonense DSM 17708 [5.50706534 2.35698638] g
+3 Flavobacterium filum DSM 17961 [-2.29007383  0.13855105] b
+4 Flavobacterium frigidarium DSM 17623 [-1.40211354 -0.31191577] b
+5 Flavobacterium frigoris PS1 [-0.90316124 -0.47162931] b
+6 Flavobacterium gelidilacus DSM 15343 [-2.55571607  0.15402748] b
+7 Flavobacterium gilvum EM1308 [2.98595442 4.43188265] g
+8 Flavobacterium johnsoniae UW101 [ 5.24471351 -1.68916159] g
+9 Flavobacterium psychrophilum FPG101 [-2.75601514  0.09402582] g
+10 Flavobacterium soli DSM 19725 [ 0.42249848 -1.52938738] g
+11 Flavobacterium sp. F52 [ 5.91684138 -0.71120686] g
+12 Flavobacterium sp. SCGC AAA160-P02 [-2.07170688 -0.69517091] b
+13 Flavobacterium sp. SCGC AAA536-P05 [-2.75319933 -0.0033276 ] b
+14 Flavobacterium sp. URHB0058 [ 4.93302581 -0.34147331] g
+15 Flavobacterium sasangense DSM 21067 [-2.63011311  0.13464668] b
+16 Flavobacterium tegetincola DSM 22377 [-2.48492588  0.07885621] b
+17 Flavobacterium sp. SLB02 [ 5.38328021 -1.98318502] b
+18 Flavobacterium columnare ATCC 49512 [-2.75601514  0.09402582] b
+19 Flavobacterium indicum GPTSA100-9 = DSM 17447 [-2.63011311  0.13464668] g
